@@ -1,9 +1,31 @@
-## automatic code reviews with pronto
-
-Hello there
+## Automatic code reviews with pronto
 
 ---
 
-## title 2
+### Motivation: rubocop in practice
+- great theoretical value proposition (two VP)
+- broken in practice
 
-how are you?
+---
+
+### What is pronto?
+
+---
+
+### How do we use it at Kisskiss?
+
+---
+
+### Run it locally
+
+---
+
+### Automatic code reviews
+
+---
+
+### How do we use it at kisskiss?
+
+---
+
+### Conclusion
