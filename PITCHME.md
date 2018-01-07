@@ -12,10 +12,6 @@
 
 ---
 
-### How do we use it at Kisskiss?
-
----
-
 ### Run it locally
 
 ---
