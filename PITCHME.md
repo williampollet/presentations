@@ -1,4 +1,4 @@
-# Make automatic code reviews with pronto
+## automatic code reviews with pronto
 
 Hello there
 
