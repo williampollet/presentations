@@ -4,16 +4,14 @@
 
 ---
 
-## introduction
-### RuboCop in theory
+## RuboCop in theory
 
  - raise an offense for each style error
  - Allow the team to build and share a common codestyle through the `rubocop.yml`
 
 ---
 
-## Motivation
-### RuboCop in practice
+## RuboCop in practice at KissKissBankBank
 
 ![image](assets/images/offenses-kisskiss.png)
 
@@ -27,13 +25,13 @@
 
 ---
 
-### The pronto gem
+## The pronto gem
 
 Executes `RuboCop` _only_ on the diffs between your branch and master
 
 ---
 
-### install it
+## install it
 
 ```bash
 $ gem install pronto
@@ -43,30 +41,23 @@ $ gem install pronto-eslint
 
 ---
 
-### Run it locally
+## Run it locally
 
 ![image](assets/images/offenses-local-branch.png)
 
- - no broken windows left by others
+ - no broken windows visible
  - reasonable number of offenses to deal with
 
 ---
 
-### Still...
+## Still...
 
 Frictions stay to build and share the codestyle
 
 ---
 
-### Automatic code reviews
-
-```bash
-$ pronto run -f github_pr_review
-```
-
----
-
-### github pr review setup 1/2
+## github pr review
+### setup 1/2
 
 Create a `pronto.yml`:
 ```yml
@@ -80,13 +71,24 @@ verbose: false
 
 ---
 
-### github pr review setup 2/2
+## github pr review
+### setup 2/2
 
 Provide:
  - A Github `personal_access_token`
  - the `id` of the PR you want pronto to review
 
 ---
+
+## github pr review
+### usage
+
+```bash
+$ pronto run -f github_pr_review
+```
+
+---
+
 
 ### How do we use it at kisskiss?
 
