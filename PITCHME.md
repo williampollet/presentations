@@ -94,6 +94,12 @@ Note:
 
 ## github pr review
 
+Comment directly the offenses raised on the Github pull request.
+
+---
+
+## github pr review
+
 Create a `pronto.yml` file:
 ```yml
 github:
@@ -103,6 +109,7 @@ github_pr_review:
 max_warnings: 200
 verbose: false
 ```
+
 Note:
 La deuxième c'est pronto run github-pr-review.
  Qu'est ce que c'est
@@ -136,8 +143,10 @@ Note:
 $ pronto run -f github_pr_review -c origin/master
 ```
 
+Note:
+Pour le CI, on récupère toutes les PR, et on récupère la PR dont le dernier commit
+est le commit analysé par le CI
 ---
-
 
 ## Meet the KissBot
 
@@ -152,9 +161,10 @@ fait que à chaque ouverture de PR, Kissbot va commenter.
 <img src="assets/images/kissbot-slack-conversation.png" style="width: 80%;" />
 
 Note:
+ca évite que quelqu'un prenne le rôle de faire toutes les
+remarques de style pas marrantes.
 Kissbot est déjà assez connu dans la boite pour être un Farceur, du coup ca met plutôt
-une bonne ambiance. Et puis ca évite que quelqu'un prenne le rôle de faire toutes les
-remarques de style pas marrantes
+une bonne ambiance.
 
 ---
 
