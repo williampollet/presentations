@@ -1,4 +1,4 @@
-## Automatic code reviews with pronto
+@title[Automatic code reviews with pronto]
 
 <div class="speedy-gonzales">
   ![image](assets/images/speedy_gonzales.png)

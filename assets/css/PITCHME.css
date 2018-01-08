@@ -1,11 +1,29 @@
-.speedy-gonzales {
-  width: 50%;
-}
-
-.kissbot {
-  width: 50%;
-}
-
-.broken-window{
+.reveal section img{
   width: 60%;
+}
+
+.reveal p span.slide-title {
+  color: #e49436;
+  font-size: 1.55em;
+  margin: 0 0 60px 0;
+  font-family: "Montserrat", Impact, sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal div.left {
+    float: left;
+    z-index: -10;
+    width: 45%;
+}
+
+.reveal div.right {
+    float: right;
+    z-index: -10;
+    width: 55%;
 }
