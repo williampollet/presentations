@@ -4,20 +4,22 @@
 
 ---
 
-### introduction: RuboCop in theory
+## introduction
+### RuboCop in theory
 
  - raise an offense for each style error
  - Allow the team to build and share a common codestyle through the `rubocop.yml`
 
 ---
 
-### Motivation: RuboCop in practice
+## Motivation
+### RuboCop in practice
 
 ![image](assets/images/offenses-kisskiss.png)
 
 ---
 
-![image](assets/images/broken-window-theory.jpg)
+![image](assets/images/broken-window.jpg)
 
 ---
 
@@ -113,3 +115,7 @@ Meet the Kissbot :)
 ---
 
 ### Conclusion
+
+---
+
+![image](assets/images/speedy_gonzales_bye.png)
