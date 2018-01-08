@@ -87,7 +87,7 @@ $ PULL_REQUEST_ID=10
 ---
 
 ## github pr review
-### usage
+##### use it
 
 ```bash
 $ pronto run -f github_pr_review -c origin/master
