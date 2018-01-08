@@ -96,13 +96,13 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-<img src="assets/images/kissbot-comments.png" class="image-template" style="width: 60%;"/>
+<img src="assets/images/kissbot-comments.png" class="image-template" style="width: 45%;"/>
 
 ---
 
 ### Why the kissbot? 2/2
 
-<img src="assets/images/kissbot-slack-conversation.png" class="image-template" style="width: 60%;" />
+<img src="assets/images/kissbot-slack-conversation.png" class="image-template" style="width: 45%;" />
 
 ---
 
