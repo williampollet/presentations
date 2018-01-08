@@ -1,17 +1,17 @@
-## Automatic code reviews with pronto
+## Automatic code reviews with `Pronto`
 
 <img src="assets/images/speedy_gonzales.png" style="width: 30%;" />
 
 ---
 
-## RuboCop in theory
+## `RuboCop` in theory
 
- - raise an offense for each style error
+ - Allow the dev to code without style error by signaling offenses
  - Allow the team to build and share a common codestyle through the `rubocop.yml`
 
 ---
 
-## RuboCop in practice at KissKissBankBank
+## `RuboCop` in practice at KissKiss
 
 ![image](assets/images/offenses-kisskiss.png)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## The pronto gem
+## The `Pronto` gem
 
 Executes `RuboCop` _only_ on the diffs between your branch and master
 
@@ -74,9 +74,8 @@ verbose: false
 ## github pr review
 ### setup 2/2
 
-Provide:
- - A Github `personal_access_token`
- - the `id` of the PR you want pronto to review
+ - provide a Github `personal_access_token`
+ - provide the `id` of the PR you want `Pronto` to review
 
 ---
 
@@ -90,25 +89,25 @@ $ pronto run -f github_pr_review
 ---
 
 
-### How do we use it at kisskiss?
+## How do we use it at kisskiss?
 
 ![image](assets/images/meet-the-kissbot.png)
 
 ---
 
-### Why the kissbot? 1/2
+## Why the kissbot? 1/2
 
 <img src="assets/images/kissbot-comments.png" style="width: 35%;"/>
 
 ---
 
-### Why the kissbot? 2/2
+## Why the kissbot? 2/2
 
 <img src="assets/images/kissbot-slack-conversation.png" style="width: 45%;" />
 
 ---
 
-### Conclusion
+## Conclusion
 
 ---
 
