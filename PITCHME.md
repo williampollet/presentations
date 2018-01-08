@@ -32,7 +32,7 @@ Executes `RuboCop` _only_ on the diffs between your branch and master
 
 ---
 
-## install it
+## installation
 
 ```bash
 $ gem install pronto
@@ -42,7 +42,7 @@ $ gem install pronto-eslint
 
 ---
 
-## Run it locally
+## Local run
 
 ![image](assets/images/offenses-local-branch.png)
 
@@ -59,7 +59,6 @@ Frictions remains for building the team codestyle
 ---
 
 ## github pr review
-### setup 1/2
 
 Create a `pronto.yml`:
 ```yml
@@ -74,11 +73,16 @@ verbose: false
 ---
 
 ## github pr review
-### setup 2/2
 
  - provide a Github `personal_access_token`
+```bash
+$ PRONTO_GITHUB_ACCESS_TOKEN=********
+```
 
  - provide the `id` of the PR you want `Pronto` to review
+```bash
+$ PULL_REQUEST_ID=10
+```
 
 ---
 
@@ -86,23 +90,23 @@ verbose: false
 ### usage
 
 ```bash
-$ pronto run -f github_pr_review
+$ pronto run -f github_pr_review -c origin/master
 ```
 
 ---
 
 
-## How do we use it at kisskiss?
+## Meet the KissBot
 
 ![image](assets/images/meet-the-kissbot.png)
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="width: 60%;"/>
+<img src="assets/images/kissbot-comments.png" style="height: 50%;"/>
 
 ---
 
-<img src="assets/images/kissbot-slack-conversation.png" style="width: 60%;" />
+<img src="assets/images/kissbot-slack-conversation.png" style="height: 50%;" />
 
 ---
 
