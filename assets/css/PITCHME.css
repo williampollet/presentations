@@ -1,13 +1,11 @@
 .speedy-gonzales {
-  border: 0;
-  box-shadow: none;
-  background: none;
-  size: 50%;
+  width: 50%;
 }
 
 .kissbot {
-  border: 0;
-  box-shadow: none;
-  background: none;
-  size: 50%;
+  width: 50%;
+}
+
+.broken-window{
+  width: 60%;
 }
