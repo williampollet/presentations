@@ -1,6 +1,8 @@
 ## Automatic code reviews with pronto
 
-![image](assets/images/speedy_gonzales.png)
+<div class="speedy-gonzales">
+  ![image](assets/images/speedy_gonzales.png)
+</div>
 
 ---
 
@@ -29,7 +31,7 @@
 
 ### The pronto gem
 
-It executes `RuboCop` _only_ on the diffs between your branch and master
+Executes `RuboCop` _only_ on the diffs between your branch and master
 
 ---
 
@@ -44,13 +46,6 @@ $ gem install pronto-eslint
 ---
 
 ### Run it locally
-```bash
-$ pronto run
-```
-
----
-
-### Results
 
 ![image](assets/images/offenses-local-branch.png)
 
@@ -73,7 +68,7 @@ $ pronto run -f github_pr_review
 
 ---
 
-### github_pr_review setup 1/2
+### github pr review setup 1/2
 
 Create a `pronto.yml`:
 ```yml
@@ -87,11 +82,11 @@ verbose: false
 
 ---
 
-### github_pr_review setup 2/2
+### github pr review setup 2/2
 
 Provide:
  - A Github `personal_access_token`
- - the id of the PR you want pronto to review
+ - the `id` of the PR you want pronto to review
 
 ---
 
@@ -103,18 +98,22 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-![image](assets/images/kissbot-comments.png)
-
+<div class="kissbot">
+  ![image](assets/images/kissbot-comments.png)
+</div>
 ---
 
 ### Why the kissbot? 2/2
 
-![image](assets/images/kissbot-slack-conversation.png)
+<div class="kissbot">
+  ![image](assets/images/kissbot-slack-conversation.png)
+</div>
 
 ---
 
 ### Conclusion
 
 ---
-
-![image](assets/images/speedy_gonzales_bye.png)
+<div class="speedy-gonzales">
+  ![image](assets/images/speedy_gonzales_bye.png)
+</div>
