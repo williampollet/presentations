@@ -52,7 +52,7 @@ $ gem install pronto-eslint
 
 ---
 
-## Still...
+## Still
 
 Frictions remains for building the team codestyle
 
@@ -60,10 +60,10 @@ Frictions remains for building the team codestyle
 
 ## github pr review
 
-Create a `pronto.yml`:
+Create a `pronto.yml` file:
 ```yml
 github:
-  slug: KissKissBankBank/kisskissbankbank
+  slug: YourOrg/YourRepo
 github_pr_review:
   format: "%{msg}"
 max_warnings: 200
@@ -74,7 +74,7 @@ verbose: false
 
 ## github pr review
 
- - provide a Github `personal_access_token`
+ - provide a Github `personal_access_token` (with repo rights)
 ```bash
 $ PRONTO_GITHUB_ACCESS_TOKEN=********
 ```
@@ -102,11 +102,11 @@ $ pronto run -f github_pr_review -c origin/master
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="width: 42%;"/>
+<img src="assets/images/kissbot-comments.png"/>
 
 ---
 
-<img src="assets/images/kissbot-slack-conversation.png" style="width: 50%;" />
+<img src="assets/images/kissbot-slack-conversation.png" style="width: 80%;" />
 
 ---
 
