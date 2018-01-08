@@ -1,6 +1,6 @@
 ## Automatic code reviews with pronto
 
-![image](assets/images/speedy_gonzales.png){ width=50% }
+![image](assets/images/speedy_gonzales.png){ height=20% }
 
 ---
 
