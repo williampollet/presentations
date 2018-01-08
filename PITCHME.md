@@ -102,11 +102,11 @@ $ pronto run -f github_pr_review -c origin/master
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="height: 20%;"/>
+<img src="assets/images/kissbot-comments.png" style="width: 40%;"/>
 
 ---
 
-<img src="assets/images/kissbot-slack-conversation.png" style="height: 20%;" />
+<img src="assets/images/kissbot-slack-conversation.png" style="width: 40%;" />
 
 ---
 
