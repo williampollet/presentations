@@ -1,6 +1,6 @@
 ## Automatic code reviews with pronto
 
-![image](assets/images/speedy_gonzales.png){ height=20% }
+<img src="assets/images/speedy_gonzales.png" style="width: 30%;" />
 
 ---
 
@@ -19,11 +19,11 @@
 
 ---
 
-![image](assets/images/broken-window.jpg)
+<img src="assets/images/broken-window.jpg" style="width: 40%;" />
 
 ---
 
-![image](assets/images/broken-window-building.jpg)
+<img src="assets/images/broken-window-building.jpg" style="width: 40%;" />
 
 ---
 
@@ -96,21 +96,18 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-![image](assets/images/kissbot-comments.png)
+<img src="assets/images/kissbot-comments.png" style="width: 30%;" />
 
 ---
 
 ### Why the kissbot? 2/2
 
-<div class="kissbot">
-  ![image](assets/images/kissbot-slack-conversation.png)
-</div>
+<img src="assets/images/kissbot-slack-conversation.png" style="width: 30%;" />
 
 ---
 
 ### Conclusion
 
 ---
-<div class="speedy-gonzales">
-  ![image](assets/images/speedy_gonzales_bye.png)
-</div>
+
+<img src="assets/images/speedy_gonzales_bye.png" style="width: 30%;" />
