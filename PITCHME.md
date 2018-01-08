@@ -96,7 +96,7 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-<img src="assets/images/kissbot-comments.png" class="image-template" style="width: 45%;"/>
+<img src="assets/images/kissbot-comments.png" class="image-template" style="width: 35%;"/>
 
 ---
 
