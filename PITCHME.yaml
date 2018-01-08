@@ -1,5 +1,4 @@
 theme : white
 theme-override : assets/css/PITCHME.css
-logo : assets/images/kissbot.png
 transition : none
 published : true
