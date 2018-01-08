@@ -1,8 +1,6 @@
 @title[Automatic code reviews with pronto]
 
-<div class="speedy-gonzales">
-  ![image](assets/images/speedy_gonzales.png)
-</div>
+![image](assets/images/speedy_gonzales.png)
 
 ---
 
@@ -98,9 +96,8 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-<div class="kissbot">
-  ![image](assets/images/kissbot-comments.png)
-</div>
+![image](assets/images/kissbot-comments.png)
+
 ---
 
 ### Why the kissbot? 2/2
