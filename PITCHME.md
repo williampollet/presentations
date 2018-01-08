@@ -27,9 +27,9 @@
 
 ---
 
-### pronto
+### The pronto gem
 
-Execute `RuboCop` _only_ on the diffs between your branch and master
+It executes `RuboCop` _only_ on the diffs between your branch and master
 
 ---
 
@@ -54,14 +54,14 @@ $ pronto run
 
 ![image](assets/images/offenses-local-branch.png)
 
- - You don't see the broken windows anymore
- - you have a reasonable number of offenses to deal with
+ - no broken windows left by others
+ - reasonable number of offenses to deal with
 
 ---
 
 ### Still...
 
-Frictions are staying for the codestyle build
+Frictions stay to build and share the codestyle
 
 ---
 
@@ -90,27 +90,26 @@ verbose: false
 ### github_pr_review setup 2/2
 
 Provide:
- - A Github personal_access_token
- - the number of the PR you want pronto to review
+ - A Github `personal_access_token`
+ - the id of the PR you want pronto to review
 
 ---
 
 ### How do we use it at kisskiss?
 
-Meet the Kissbot :)
 ![image](assets/images/meet-the-kissbot.png)
 
 ---
 
 ### Why the kissbot? 1/2
 
-![image](assets/images/kissbot-slack-conversation.png)
+![image](assets/images/kissbot-comments.png)
 
 ---
 
 ### Why the kissbot? 2/2
 
-![image](assets/images/kissbot-comments.png)
+![image](assets/images/kissbot-slack-conversation.png)
 
 ---
 
