@@ -6,8 +6,9 @@
 
 ## `RuboCop` in theory
 
- - Allow the dev to code without style error by signaling offenses
- - Allow the team to build and share a common codestyle through the `rubocop.yml`
+ - Code without style error
+
+ - Build a common codestyle thanks to `rubocop.yml`
 
 ---
 
@@ -75,6 +76,7 @@ verbose: false
 ### setup 2/2
 
  - provide a Github `personal_access_token`
+
  - provide the `id` of the PR you want `Pronto` to review
 
 ---
@@ -95,15 +97,11 @@ $ pronto run -f github_pr_review
 
 ---
 
-## Why the kissbot? 1/2
-
-<img src="assets/images/kissbot-comments.png" style="width: 35%;"/>
+<img src="assets/images/kissbot-comments.png" style="width: 60%;"/>
 
 ---
 
-## Why the kissbot? 2/2
-
-<img src="assets/images/kissbot-slack-conversation.png" style="width: 45%;" />
+<img src="assets/images/kissbot-slack-conversation.png" style="width: 60%;" />
 
 ---
 
