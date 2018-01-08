@@ -8,7 +8,7 @@
 
  - Code without style error
 
- - Build a team codestyle with the `rubocop.yml`
+ - Build a team custom codestyle with the `rubocop.yml`
 
 ---
 
@@ -52,7 +52,7 @@ $ gem install pronto-eslint
 
 ---
 
-## Still
+## Still.
 
 Frictions remains for building the team codestyle
 
@@ -106,7 +106,7 @@ $ pronto run -f github_pr_review -c origin/master
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="width: 70%;"/>
+<img src="assets/images/kissbot-comments.png" style="width: 85%;"/>
 
 ---
 
