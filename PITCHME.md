@@ -1,6 +1,6 @@
 ## Automatic code reviews with pronto
 
-<img src="assets/images/speedy_gonzales.png" class="image" style="width: 30%;" />
+<img src="assets/images/speedy_gonzales.png" class="image-template" style="width: 30%;" />
 
 ---
 
@@ -19,11 +19,11 @@
 
 ---
 
-<img src="assets/images/broken-window.jpg" class="image" style="width: 60%;" />
+<img src="assets/images/broken-window.jpg" class="image-template" style="width: 60%;" />
 
 ---
 
-<img src="assets/images/broken-window-building.jpg" class="image" style="width: 60%;" />
+<img src="assets/images/broken-window-building.jpg" class="image-template" style="width: 60%;" />
 
 ---
 
@@ -96,13 +96,13 @@ Provide:
 
 ### Why the kissbot? 1/2
 
-<img src="assets/images/kissbot-comments.png" class="image" style="width: 45%;"/>
+<img src="assets/images/kissbot-comments.png" class="image-template" style="width: 60%;"/>
 
 ---
 
 ### Why the kissbot? 2/2
 
-<img src="assets/images/kissbot-slack-conversation.png" class="image" style="width: 45%;" />
+<img src="assets/images/kissbot-slack-conversation.png" class="image-template" style="width: 60%;" />
 
 ---
 
@@ -110,4 +110,4 @@ Provide:
 
 ---
 
-<img src="assets/images/speedy_gonzales_bye.png" class="image" style="width: 40%;"/>
+<img src="assets/images/speedy_gonzales_bye.png" class="image-template" style="width: 40%;"/>
