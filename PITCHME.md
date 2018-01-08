@@ -8,7 +8,7 @@
 
  - Code without style error
 
- - Build a common codestyle thanks to `rubocop.yml`
+ - Build a team codestyle with the `rubocop.yml`
 
 ---
 
@@ -47,13 +47,14 @@ $ gem install pronto-eslint
 ![image](assets/images/offenses-local-branch.png)
 
  - no broken windows visible
+
  - reasonable number of offenses to deal with
 
 ---
 
 ## Still...
 
-Frictions stay to build and share the codestyle
+Frictions remains for building the team codestyle
 
 ---
 
