@@ -12,7 +12,7 @@
 
 ---
 
-## `RuboCop` in practice at KissKiss
+## `RuboCop` in practice
 
 ![image](assets/images/offenses-kisskiss.png)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## The `Pronto` gem
+## `Pronto`
 
 Executes `RuboCop` _only_ on the diffs between your branch and master
 
@@ -102,11 +102,11 @@ $ pronto run -f github_pr_review -c origin/master
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="height: 50%;"/>
+<img src="assets/images/kissbot-comments.png" style="height: 30%;"/>
 
 ---
 
-<img src="assets/images/kissbot-slack-conversation.png" style="height: 50%;" />
+<img src="assets/images/kissbot-slack-conversation.png" style="height: 30%;" />
 
 ---
 
