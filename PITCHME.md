@@ -1,4 +1,5 @@
-## Automatic code reviews with pronto
+# Automatic code reviews with pronto
+![image](assets/images/speedy_gonzales.png)
 
 ---
 
