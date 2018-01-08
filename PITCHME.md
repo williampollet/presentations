@@ -18,11 +18,11 @@
 
 ---
 
-<img src="assets/images/broken-window.jpg" style="width: 60%;" />
+<img src="assets/images/broken-window.jpg" style="width: 70%;" />
 
 ---
 
-<img src="assets/images/broken-window-building.jpg" style="width: 60%;" />
+<img src="assets/images/broken-window-building.jpg" style="width: 70%;" />
 
 ---
 
@@ -102,7 +102,7 @@ $ pronto run -f github_pr_review -c origin/master
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="width: 45%;"/>
+<img src="assets/images/kissbot-comments.png" style="width: 42%;"/>
 
 ---
 
