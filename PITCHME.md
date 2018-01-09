@@ -178,7 +178,7 @@ remarques de style pas marrantes. Ca renverse meme parfois la tendance!
 
 ---
 
-<img src="assets/images/kissbot-comments.png" style="width: 80%;" />
+<img src="assets/images/kissbot-comments.png" style="width: 70%;" />
 
 Note:
 Ca règle les dernières propositions de valeur cassées :
