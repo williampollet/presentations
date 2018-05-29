@@ -18,7 +18,7 @@ Note:
 
 ## So why git reflog?
 
-What happens when I do something terribly wrong? like a `reset --hard' ?
+What happens when I do something terribly wrong? like a `reset --hard` ?
 
 ---
 
@@ -27,3 +27,13 @@ What happens when I do something terribly wrong? like a `reset --hard' ?
 ```bash
   git reflog
 ```
+
+---
+
+# Demo time
+
+---
+
+# The magic of git Reflog
+
+You will _never make irreversible changes_ anymore.
