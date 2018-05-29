@@ -14,9 +14,13 @@ Note:
   git lg
 ```
 
+---
+
 ## So why git reflog?
 
 What happens when I do something terribly wrong? like a `reset --hard`... ?
+
+---
 
 ## Git Reflog: the git time machine
 
