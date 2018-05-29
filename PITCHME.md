@@ -18,7 +18,7 @@ Note:
 
 ## So why git reflog?
 
-What happens when I do something terribly wrong? like a `reset --hard`... ?
+What happens when I do something terribly wrong? like a `reset --hard' ?
 
 ---
 
