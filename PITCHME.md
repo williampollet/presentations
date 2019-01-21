@@ -4,7 +4,6 @@ Reduce the feedback loop on your tests and linters results
 
 ---
 
-class:
 ### @css[head](Use case)
 
 Oftenly as a software developer, I guess you are confronted to this scenario
