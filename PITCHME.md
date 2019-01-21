@@ -8,7 +8,7 @@ Augmenter la rapidité de votre feedback loop sur vos tests et sur votre lint
 
 Oftenly as a software developer, I guess you are confronted to this scenario :
 
-<img src="assets/images/circle_fail.png" style="width: 50%;" />
+<img src="assets/images/circle_fail.png" style="width: 100%;" />
 
 Note:
  - Your tests fail on your remote branch after you push your branch
@@ -17,7 +17,7 @@ Note:
 
 ### Why does it matter ?
 
-<img src="assets/images/should_i_care.png" style="width: 50%;" />
+<img src="assets/images/should_i_care.jpg" style="width: 50%;" />
 
 Note:
  - Now our problably telling yourself, ok, and so what ? (spéciale cassdédi à AnneSo)
