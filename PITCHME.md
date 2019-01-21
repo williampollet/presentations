@@ -4,7 +4,8 @@ Reduce the feedback loop on your tests and linters results
 
 ---
 
-### Use case
+class:
+### @css[head](Use case)
 
 Oftenly as a software developer, I guess you are confronted to this scenario
 
@@ -48,7 +49,7 @@ Note:
 
 ---
 
-# Strategy 1
+### Strategy 1
 
 - Useful the first time you send your code
 - Less useful when want to make quick iterations

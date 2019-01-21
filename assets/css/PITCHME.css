@@ -28,3 +28,8 @@
   border: 0;
   box-shadow: none;
 }
+
+.head {
+  float: left;
+  z-index: -10;
+}
