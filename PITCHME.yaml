@@ -1,4 +1,4 @@
 theme: white
-theme-override: assets/css/custom.css
+theme-override: assets/css/PITCHME.css
 transition: none
 published: true
