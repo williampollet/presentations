@@ -48,7 +48,7 @@ Note:
 
 ---
 
-### Strategy 1
+# Strategy 1
 
 - Useful the first time you send your code
 - Less useful when want to make quick iterations
