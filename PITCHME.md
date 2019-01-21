@@ -31,9 +31,9 @@ Note:
 Note:
 What does those 12ish min means ? Tip : this is a problem. To understand why, let's dig into the context:
  - you just finished your development on your local branch. Proud of your code, you push on Github and open a pull request.
- - The output of the CI is negative about 20 mins after you opened your PR.
+ - If the codebase is consequent (which is the case at Kisskiss) you have the output of the CI approximately 20 mins after you opened your PR.
  - 20 min is a long time if you wait and thus it is just about the minimal time you need to concentrate effectively on a task.
- - This chopped process results in a tremendous productivity loss if you have no bypass strategies
+ - This chopped process results in a tremendous productivity loss if you have no bypass strategies: the development
 
 ---
 
@@ -52,15 +52,16 @@ Note:
 
 - Useful the first time you send your code
 - Less useful when want to make quick iterations
-- Less useful when you
+- Less useful when you need to iterate on one pull request over time
 
 ---
 
 ### Strategy 2: Introducing SafePusher
 
+A command line allowing you to test and run the linters only on the files you modified, to reduce your feedback loop.
 
 Note:
-- a note here
+- the other strategy is to test in local, by selecting only the changes you made to avoid having to wait for the complete test suite to pass.
 
 ---
 
@@ -75,7 +76,11 @@ Note:
 ### Configuration
 
 ```yml
-
+files_to_skip:
+  - file/to/skip_1
+  - file/to/skip/2
+app_base_directory: app
+repo_url: https://github.com/williampollet/safe_pusher
 ```
 
 ---
@@ -88,7 +93,7 @@ Note:
 ```
 
 Note:
- - The first
+ - you can execute the commands you wish between test, push, open and lint
 
 ---
 
@@ -97,8 +102,3 @@ Note:
 - [Guard](https://github.com/guard/guard)
 
 ---
-
-
-- Ca a pris du temps
-- Ca a pas pris assez de temps pour se lancer avec sérieux dans une autre tache
-- tu ne l'a pas passé en local car la suite de test met 30 min pour passer et est à moitié configurée
