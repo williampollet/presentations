@@ -26,7 +26,7 @@ Note:
 
 ### Let's have a look at the relevant information here
 
-<img src="assets/images/circle_fail_info.png" style="width: 50%;" />
+<img src="assets/images/circle_fail_info.png" style="width: 100%;" />
 
 Note:
 What does those 12ish min means ? Advice : this is a problem. To understand why, let's dig into the context:
